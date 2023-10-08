@@ -1,8 +1,6 @@
 # NASA-Space-Apps
 **DELFOS**'s repository for Nasa Space Apps Challenge 2023 <br/>
 
-Link web
-
 ![DELFOS logo](img/delfos_logo.PNG)
 
 ## :scroll: Table of Contents
@@ -28,6 +26,10 @@ The **neural network model** has been trained with a dataset of 3 million data p
 ## :computer: Technology Used
 - Technologies: `Recurrent Neural Networks (*RNN*)`
 - Datasets: [Geomagnetic Observatory Niemegk, GFZ German Research Centre for Geosciences](https://kp.gfz-potsdam.de/app/files/Kp_ap_since_1932.txt), [DSCOVR PlasMAG instrument suite](https://www.spaceappschallenge.org/develop-the-oracle-of-dscovr-experimental-data-repository/), [CARISMA Magnetometer Network](https://donnees-data.asc-csa.gc.ca/dataset/06f5e364-6e2c-4d1c-95c2-9fb7d871ca20)
+
+## Web interface
+As our model is intended to be a tool of help for scientists and engineers who work ensuring the safety of satellites and communication equipment, we have designed a web interface that allows you to use the model easily and visually.
+https://delfos.streamlit.app/
 
 ## 🤗 DELFOs 🤯
 - Iván Serrano Hernandez

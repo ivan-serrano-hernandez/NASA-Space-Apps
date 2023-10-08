@@ -1,7 +1,7 @@
 # NASA-Space-Apps
 **DELFOS**'s repository for Nasa Space Apps Challenge 2023 <br/>
 Languages: <br/>
-[![English](https://img.shields.io/badge/English-🇬🇧-blue)](https://github.com/d/HackUPC2023/blob/main/README.md)
+[![English](https://img.shields.io/badge/English-🇬🇧-blue)](https://github.com/ivan-serrano-hernandez/NASA-Space-App/blob/main/README.md)
 [![Spanish](https://img.shields.io/badge/Spanish-🇪🇸-red)](https://github.com/ivan-serrano-hernandez/NASA-Space-App/blob/main/es/README.md)
 
 Link web

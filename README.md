@@ -13,7 +13,7 @@ imagen
 ## :question: What is our project
 **Abastract**
 
-The main objective of this project is the creation of a tool that facilitates decision-making related to the protection of space satellites. <Recurrent neural networks> have been implemented, whose output consists of future values of the geomagnetic activity *index Kp*. Through a rigorous treatment of input and output data, efficient and easy-to-understand graphical elements have been created in terms of this value.
+The main objective of this project is the creation of a tool that facilitates decision-making related to the protection of space satellites. **Recurrent neural networks** have been implemented, whose output consists of future values of the geomagnetic activity *index Kp*. Through a rigorous treatment of input and output data, efficient and easy-to-understand graphical elements have been created in terms of this value.
 
 
 **Introduction to the problem**

@@ -3,7 +3,7 @@
 
 Link web
 
-imagen
+![DELFOS logo](img/delfos_logo.PNG)
 
 ## :scroll: Table of Contents
 - [:question: What is our project](https://github.com/ivan-serrano-hernandez/NASA-Space-Apps/blob/main/README.md#hackupc2023)
